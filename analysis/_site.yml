@@ -13,7 +13,7 @@ navbar:
       href: license.html
   right:
     - icon: fa-github
-      href: https://alfonsorreyes.github.io/myproject/
+      href: https://github.com/AlfonsoRReyes/myproject
 output:
   html_document:
     toc: true
